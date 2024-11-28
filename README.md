@@ -1,6 +1,9 @@
 # Pizza-or-Not-Pizza-Image-Classification
 This is a deep learning model in which a set of food data is used to train a model so that it can predict whether the image provided is a pizza or not. Using transfer learning by leveraging Resnet's pre-trained model.
 
+Dataset taken from: https://www.kaggle.com/datasets/projectshs/pizza-classification-data
+
+
 Steps to develop the model.
 
 1. Download the images from the dataset, store them in a directory, assign the paths for both training and test data.
